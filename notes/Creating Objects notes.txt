@@ -1,0 +1,1 @@
+Creating ObjectsNotes* Class decorationo Ex: Class Cup* The class is usually capitalized* Constructor comes next* Third is any functions or methodso Have as many as you want* Going to look similar to a function* Going to take arguments* Self, this* Shortens all unnecessary arguments
